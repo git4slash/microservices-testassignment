@@ -1,0 +1,9 @@
+spring:
+  application.name: svc keyword
+  jackson.serialization.WRITE_DATES_AS_TIMESTAMPS: false
+api:
+  home: /articles
+  author: /author
+  period: /period
+
+server.port: 8888

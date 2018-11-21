@@ -1,0 +1,5 @@
+spring:
+  application.name: svc keyword
+api:
+  home: /keywords
+server.port: 8889
